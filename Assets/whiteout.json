@@ -1,0 +1,1054 @@
+{
+    "Objects": [
+        {
+            "Name": "Plane",
+            "UniqueID": "1",
+            "Type": 2,
+            "Position": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": [
+                2000.0,
+                1.0,
+                2000.0
+            ],
+            "PhysicsEnabled": false
+        },
+        {
+            "Name": "Cube",
+            "UniqueID": "8",
+            "Type": 1,
+            "Position": [
+                0.0,
+                5.0,
+                25.0
+            ],
+            "Rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": [
+                70.0,
+                10.0,
+                1.0
+            ],
+            "PhysicsEnabled": false
+        },
+        {
+            "Name": "Cube (0)",
+            "UniqueID": "15",
+            "Type": 1,
+            "Position": [
+                35.0,
+                5.0,
+                0.0
+            ],
+            "Rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": [
+                1.0,
+                10.0,
+                50.0
+            ],
+            "PhysicsEnabled": false
+        },
+        {
+            "Name": "Cube (1)",
+            "UniqueID": "22",
+            "Type": 1,
+            "Position": [
+                -35.0,
+                5.0,
+                0.0
+            ],
+            "Rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": [
+                1.0,
+                10.0,
+                50.0
+            ],
+            "PhysicsEnabled": false
+        },
+        {
+            "Name": "Plane (0)",
+            "UniqueID": "29",
+            "Type": 2,
+            "Position": [
+                0.0,
+                0.1,
+                0.0
+            ],
+            "Rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": [
+                70.0,
+                1.0,
+                50.0
+            ],
+            "PhysicsEnabled": false
+        },
+        {
+            "Name": "Cube (2)",
+            "UniqueID": "36",
+            "Type": 1,
+            "Position": [
+                -20.0,
+                5.0,
+                -25.0
+            ],
+            "Rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": [
+                30.0,
+                10.0,
+                1.0
+            ],
+            "PhysicsEnabled": false
+        },
+        {
+            "Name": "Cube (3)",
+            "UniqueID": "43",
+            "Type": 1,
+            "Position": [
+                20.0,
+                5.0,
+                -25.0
+            ],
+            "Rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": [
+                30.0,
+                10.0,
+                1.0
+            ],
+            "PhysicsEnabled": false
+        },
+        {
+            "Name": "Cube (4)",
+            "UniqueID": "50",
+            "Type": 1,
+            "Position": [
+                0.0,
+                8.0,
+                -25.0
+            ],
+            "Rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": [
+                10.0,
+                4.0,
+                1.0
+            ],
+            "PhysicsEnabled": false
+        },
+        {
+            "Name": "Cube (5)",
+            "UniqueID": "57",
+            "Type": 1,
+            "Position": [
+                0.0,
+                10.0,
+                0.0
+            ],
+            "Rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": [
+                70.0,
+                1.0,
+                50.0
+            ],
+            "PhysicsEnabled": false
+        },
+        {
+            "Name": "Cube (6)",
+            "UniqueID": "64",
+            "Type": 1,
+            "Position": [
+                -13.0,
+                5.0,
+                -22.0
+            ],
+            "Rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": [
+                1.0,
+                10.0,
+                5.0
+            ],
+            "PhysicsEnabled": false
+        },
+        {
+            "Name": "Cube (7)",
+            "UniqueID": "71",
+            "Type": 1,
+            "Position": [
+                -13.0,
+                5.0,
+                -11.0
+            ],
+            "Rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": [
+                1.0,
+                10.0,
+                5.0
+            ],
+            "PhysicsEnabled": false
+        },
+        {
+            "Name": "Cube (8)",
+            "UniqueID": "78",
+            "Type": 1,
+            "Position": [
+                -24.0,
+                5.0,
+                -9.0
+            ],
+            "Rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": [
+                22.0,
+                10.0,
+                1.0
+            ],
+            "PhysicsEnabled": false
+        },
+        {
+            "Name": "Cube (9)",
+            "UniqueID": "85",
+            "Type": 1,
+            "Position": [
+                -13.0,
+                8.0,
+                -17.0
+            ],
+            "Rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": [
+                1.0,
+                4.0,
+                8.0
+            ],
+            "PhysicsEnabled": false
+        },
+        {
+            "Name": "Cube (10)",
+            "UniqueID": "92",
+            "Type": 1,
+            "Position": [
+                13.0,
+                5.0,
+                -22.0
+            ],
+            "Rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": [
+                1.0,
+                10.0,
+                5.0
+            ],
+            "PhysicsEnabled": false
+        },
+        {
+            "Name": "Cube (11)",
+            "UniqueID": "99",
+            "Type": 1,
+            "Position": [
+                13.0,
+                8.0,
+                -17.0
+            ],
+            "Rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": [
+                1.0,
+                4.0,
+                8.0
+            ],
+            "PhysicsEnabled": false
+        },
+        {
+            "Name": "Cube (12)",
+            "UniqueID": "106",
+            "Type": 1,
+            "Position": [
+                13.0,
+                5.0,
+                -11.0
+            ],
+            "Rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": [
+                1.0,
+                10.0,
+                5.0
+            ],
+            "PhysicsEnabled": false
+        },
+        {
+            "Name": "Cube (13)",
+            "UniqueID": "113",
+            "Type": 1,
+            "Position": [
+                24.0,
+                5.0,
+                -9.0
+            ],
+            "Rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": [
+                22.0,
+                10.0,
+                1.0
+            ],
+            "PhysicsEnabled": false
+        },
+        {
+            "Name": "Cube (14)",
+            "UniqueID": "120",
+            "Type": 1,
+            "Position": [
+                0.0,
+                8.0,
+                9.0
+            ],
+            "Rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": [
+                70.0,
+                4.0,
+                1.0
+            ],
+            "PhysicsEnabled": false
+        },
+        {
+            "Name": "Cube (15)",
+            "UniqueID": "127",
+            "Type": 1,
+            "Position": [
+                -31.0,
+                3.0,
+                9.0
+            ],
+            "Rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": [
+                5.0,
+                6.0,
+                1.0
+            ],
+            "PhysicsEnabled": false
+        },
+        {
+            "Name": "Cube (16)",
+            "UniqueID": "134",
+            "Type": 1,
+            "Position": [
+                32.0,
+                3.0,
+                9.0
+            ],
+            "Rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": [
+                5.0,
+                6.0,
+                1.0
+            ],
+            "PhysicsEnabled": false
+        },
+        {
+            "Name": "Cube (17)",
+            "UniqueID": "141",
+            "Type": 1,
+            "Position": [
+                -14.0,
+                5.0,
+                22.5
+            ],
+            "Rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": [
+                1.0,
+                10.0,
+                4.0
+            ],
+            "PhysicsEnabled": false
+        },
+        {
+            "Name": "Cube (18)",
+            "UniqueID": "148",
+            "Type": 1,
+            "Position": [
+                14.0,
+                5.0,
+                22.5
+            ],
+            "Rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": [
+                1.0,
+                10.0,
+                4.0
+            ],
+            "PhysicsEnabled": false
+        },
+        {
+            "Name": "Cube (19)",
+            "UniqueID": "155",
+            "Type": 1,
+            "Position": [
+                -14.0,
+                5.0,
+                11.5
+            ],
+            "Rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": [
+                1.0,
+                10.0,
+                4.0
+            ],
+            "PhysicsEnabled": false
+        },
+        {
+            "Name": "Cube (20)",
+            "UniqueID": "162",
+            "Type": 1,
+            "Position": [
+                14.0,
+                5.0,
+                11.5
+            ],
+            "Rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": [
+                1.0,
+                10.0,
+                4.0
+            ],
+            "PhysicsEnabled": false
+        },
+        {
+            "Name": "Cube (21)",
+            "UniqueID": "169",
+            "Type": 1,
+            "Position": [
+                -12.0,
+                3.0,
+                9.0
+            ],
+            "Rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": [
+                16.0,
+                6.0,
+                1.0
+            ],
+            "PhysicsEnabled": false
+        },
+        {
+            "Name": "Cube (22)",
+            "UniqueID": "176",
+            "Type": 1,
+            "Position": [
+                12.0,
+                3.0,
+                9.0
+            ],
+            "Rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": [
+                16.0,
+                6.0,
+                1.0
+            ],
+            "PhysicsEnabled": false
+        },
+        {
+            "Name": "Cube (23)",
+            "UniqueID": "183",
+            "Type": 1,
+            "Position": [
+                14.0,
+                8.0,
+                17.0
+            ],
+            "Rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": [
+                1.0,
+                4.0,
+                7.0
+            ],
+            "PhysicsEnabled": false
+        },
+        {
+            "Name": "Cube (24)",
+            "UniqueID": "190",
+            "Type": 1,
+            "Position": [
+                -14.0,
+                8.0,
+                17.0
+            ],
+            "Rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": [
+                1.0,
+                4.0,
+                7.0
+            ],
+            "PhysicsEnabled": false
+        },
+        {
+            "Name": "Cube (25)",
+            "UniqueID": "197",
+            "Type": 1,
+            "Position": [
+                0.0,
+                0.12,
+                17.0
+            ],
+            "Rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": [
+                27.0,
+                0.06,
+                15.0
+            ],
+            "PhysicsEnabled": false
+        },
+        {
+            "Name": "Cube (26)",
+            "UniqueID": "204",
+            "Type": 1,
+            "Position": [
+                0.0,
+                0.33,
+                20.06
+            ],
+            "Rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": [
+                27.0,
+                0.37,
+                8.98
+            ],
+            "PhysicsEnabled": false
+        },
+        {
+            "Name": "Cube (27)",
+            "UniqueID": "211",
+            "Type": 1,
+            "Position": [
+                0.0,
+                0.64,
+                22.04
+            ],
+            "Rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": [
+                27.0,
+                0.3,
+                5.0
+            ],
+            "PhysicsEnabled": false
+        },
+        {
+            "Name": "Cube (28)",
+            "UniqueID": "218",
+            "Type": 1,
+            "Position": [
+                0.0,
+                1.37,
+                20.87
+            ],
+            "Rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": [
+                6.27,
+                1.96,
+                1.74
+            ],
+            "PhysicsEnabled": false
+        },
+        {
+            "Name": "Cube (29)",
+            "UniqueID": "225",
+            "Type": 1,
+            "Position": [
+                0.0,
+                5.24,
+                24.35
+            ],
+            "Rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": [
+                0.58,
+                5.66,
+                0.34
+            ],
+            "PhysicsEnabled": false
+        },
+        {
+            "Name": "Cube (30)",
+            "UniqueID": "232",
+            "Type": 1,
+            "Position": [
+                0.0,
+                6.25,
+                24.47
+            ],
+            "Rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": [
+                5.43,
+                0.47,
+                0.58
+            ],
+            "PhysicsEnabled": false
+        },
+        {
+            "Name": "Capsule",
+            "UniqueID": "239",
+            "Type": 4,
+            "Position": [
+                30.0,
+                0.0,
+                4.0
+            ],
+            "Rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": [
+                2.0,
+                20.0,
+                2.0
+            ],
+            "PhysicsEnabled": false
+        },
+        {
+            "Name": "Capsule (0)",
+            "UniqueID": "246",
+            "Type": 4,
+            "Position": [
+                30.0,
+                0.0,
+                -4.0
+            ],
+            "Rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": [
+                2.0,
+                20.0,
+                2.0
+            ],
+            "PhysicsEnabled": false
+        },
+        {
+            "Name": "Capsule (1)",
+            "UniqueID": "253",
+            "Type": 4,
+            "Position": [
+                -30.0,
+                0.0,
+                4.0
+            ],
+            "Rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": [
+                2.0,
+                20.0,
+                2.0
+            ],
+            "PhysicsEnabled": false
+        },
+        {
+            "Name": "Capsule (2)",
+            "UniqueID": "260",
+            "Type": 4,
+            "Position": [
+                -30.0,
+                0.0,
+                -4.0
+            ],
+            "Rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": [
+                2.0,
+                20.0,
+                2.0
+            ],
+            "PhysicsEnabled": false
+        },
+        {
+            "Name": "Capsule (3)",
+            "UniqueID": "267",
+            "Type": 4,
+            "Position": [
+                -7.0,
+                0.0,
+                4.0
+            ],
+            "Rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": [
+                2.0,
+                20.0,
+                2.0
+            ],
+            "PhysicsEnabled": false
+        },
+        {
+            "Name": "Capsule (4)",
+            "UniqueID": "274",
+            "Type": 4,
+            "Position": [
+                -7.0,
+                0.0,
+                -4.0
+            ],
+            "Rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": [
+                2.0,
+                20.0,
+                2.0
+            ],
+            "PhysicsEnabled": false
+        },
+        {
+            "Name": "Capsule (5)",
+            "UniqueID": "281",
+            "Type": 4,
+            "Position": [
+                7.0,
+                0.0,
+                4.0
+            ],
+            "Rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": [
+                2.0,
+                20.0,
+                2.0
+            ],
+            "PhysicsEnabled": false
+        },
+        {
+            "Name": "Capsule (6)",
+            "UniqueID": "288",
+            "Type": 4,
+            "Position": [
+                7.0,
+                0.0,
+                -4.0
+            ],
+            "Rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": [
+                2.0,
+                20.0,
+                2.0
+            ],
+            "PhysicsEnabled": false
+        },
+        {
+            "Name": "Capsule (7)",
+            "UniqueID": "295",
+            "Type": 4,
+            "Position": [
+                -18.0,
+                0.0,
+                -4.0
+            ],
+            "Rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": [
+                2.0,
+                20.0,
+                2.0
+            ],
+            "PhysicsEnabled": false
+        },
+        {
+            "Name": "Capsule (8)",
+            "UniqueID": "302",
+            "Type": 4,
+            "Position": [
+                -18.0,
+                0.0,
+                4.0
+            ],
+            "Rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": [
+                2.0,
+                20.0,
+                2.0
+            ],
+            "PhysicsEnabled": false
+        },
+        {
+            "Name": "Capsule (9)",
+            "UniqueID": "309",
+            "Type": 4,
+            "Position": [
+                18.0,
+                0.0,
+                4.0
+            ],
+            "Rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": [
+                2.0,
+                20.0,
+                2.0
+            ],
+            "PhysicsEnabled": false
+        },
+        {
+            "Name": "Capsule (10)",
+            "UniqueID": "316",
+            "Type": 4,
+            "Position": [
+                18.0,
+                0.0,
+                -4.0
+            ],
+            "Rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": [
+                2.0,
+                20.0,
+                2.0
+            ],
+            "PhysicsEnabled": false
+        },
+        {
+            "Name": "Sphere",
+            "UniqueID": "323",
+            "Type": 3,
+            "Position": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "PhysicsEnabled": true
+        },
+        {
+            "Name": "Cube (0) (1)",
+            "UniqueID": "330",
+            "Type": 1,
+            "Position": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "PhysicsEnabled": false
+        },
+        {
+            "Name": "Cube (31)",
+            "UniqueID": "337",
+            "Type": 1,
+            "Position": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "PhysicsEnabled": false
+        },
+        {
+            "Name": "Cube (32)",
+            "UniqueID": "344",
+            "Type": 1,
+            "Position": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "PhysicsEnabled": false
+        }
+    ]
+}
